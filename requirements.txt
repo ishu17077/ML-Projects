@@ -1,5 +1,5 @@
 aiofiles==25.1.0
-anyio==4.11.0
+anyio==4.14.2
 apparmor==5.0.2
 aptdaemon==2.0.2
 arandr==0.1.11
